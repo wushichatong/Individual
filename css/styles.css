@@ -48,17 +48,17 @@ footer {
 
 
 .asideLeft {
-	width: 28%;
+	width: 35%;
 	float: left;
 	margin-right: 1%;
 	margin-left: 10%;
-	margin-top: 15%;
+	margin-top: 8%;
 }
 .sectionRight {
 	width: 35%;
 	float: right;
 	margin-right: 5%;
-	margin-top: 10%;
+	margin-top: 2%;
 	margin-left: 1%;
 	padding-left: 2.5%;
 	padding-right: 2.5%;
@@ -70,6 +70,7 @@ footer {
 	background-image: linear-gradient(180deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
 	border-top-right-radius: 25px;
 	margin-bottom: 100px;
+	font-weight: bold;
 }
 header {
 	text-align: center;
@@ -127,8 +128,8 @@ nav {
 	margin-bottom: 100px;
 }
 body {
-	background-color:darkslategray;
-	background-image: url();
+	
+	background-image: url(../images/bkgdPhone.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: actor;
